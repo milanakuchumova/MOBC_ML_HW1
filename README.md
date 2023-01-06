@@ -36,12 +36,12 @@
 
 Файл csv:
 
-![img.png](scrinshots/img.png)
+![img.png](screenshots/img.png)
 
-![img_1.png](scrinshots/img_1.png)
+![img_1.png](screenshots/img_1.png)
 
 Один объект в виде json:
 
-![img_2.png](scrinshots/img_2.png)
+![img_2.png](screenshots/img_2.png)
 
-![img_3.png](scrinshots/img_3.png)
+![img_3.png](screenshots/img_3.png)
